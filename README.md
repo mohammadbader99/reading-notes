@@ -12,3 +12,5 @@ Page | Link
 Growth Mindset | [View](https://mohammadbader99.github.io/reading-notes/GrowthMindset)
 Read01 (Markdown) | [View](https://mohammadbader99.github.io/reading-notes/read01)
 Read02 (Git) | [View](https://mohammadbader99.github.io/reading-notes/read02)
+Read03 (HTML) | [View](https://mohammadbader99.github.io/reading-notes/read03)
+Read04 (JavaScript) | [View](https://mohammadbader99.github.io/reading-notes/read04)
