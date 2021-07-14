@@ -14,3 +14,5 @@ Read01 (Markdown) | [View](https://mohammadbader99.github.io/reading-notes/read0
 Read02 (Git) | [View](https://mohammadbader99.github.io/reading-notes/read02)
 Read03 (HTML) | [View](https://mohammadbader99.github.io/reading-notes/read03)
 Read04 (JavaScript) | [View](https://mohammadbader99.github.io/reading-notes/read04)
+Read05 (Operators and Loops) | [View](https://mohammadbader99.github.io/reading-notes/read05)
+Read06 (CSS) | [View](https://mohammadbader99.github.io/reading-notes/read06)
