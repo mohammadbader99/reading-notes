@@ -25,7 +25,7 @@ Read07 (Programming with JavaScript) | [View](https://mohammadbader99.github.io/
 Page | Link
 -|-
 Class-01 | [View](https://mohammadbader99.github.io/reading-notes/class-01)
-Class-02 | Not ready yet
+Class-02 | [View](https://mohammadbader99.github.io/reading-notes/class-02)
 Class-03 | Not ready yet
 Class-04 | Not ready yet
 Class-05 | Not ready yet
