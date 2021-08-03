@@ -26,7 +26,7 @@ Page | Link
 -|-
 Class-01 | [View](https://mohammadbader99.github.io/reading-notes/class-01)
 Class-02 | [View](https://mohammadbader99.github.io/reading-notes/class-02)
-Class-03 | Not ready yet
+Class-03 | [View](https://mohammadbader99.github.io/reading-notes/class-03)
 Class-04 | Not ready yet
 Class-05 | Not ready yet
 Class-06 | Not ready yet
