@@ -32,7 +32,7 @@ Class-05 | [View](https://mohammadbader99.github.io/reading-notes/class-05)
 Class-06 | [View](https://mohammadbader99.github.io/reading-notes/class-06)
 Class-07 | [View](https://mohammadbader99.github.io/reading-notes/class-07)
 Class-08 | [View](https://mohammadbader99.github.io/reading-notes/class-08)
-Class-09 | Not ready yet
+Class-09 | [View](https://mohammadbader99.github.io/reading-notes/class-09)
 Class-10 | Not ready yet
 Class-11 | Not ready yet
 Class-12 | Not ready yet
