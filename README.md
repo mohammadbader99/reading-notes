@@ -36,6 +36,6 @@ Class-09 | [View](https://mohammadbader99.github.io/reading-notes/class-09)
 Class-10 | [View](https://mohammadbader99.github.io/reading-notes/class-10)
 Class-11 | [View](https://mohammadbader99.github.io/reading-notes/class-11)
 Class-12 | [View](https://mohammadbader99.github.io/reading-notes/class-12)
-Class-13 | Not ready yet
+Class-13 | [View](https://mohammadbader99.github.io/reading-notes/class-13)
 Class-14a | Not ready yet
 Class-14b | Not ready yet
