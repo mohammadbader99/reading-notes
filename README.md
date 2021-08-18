@@ -37,5 +37,5 @@ Class-10 | [View](https://mohammadbader99.github.io/reading-notes/class-10)
 Class-11 | [View](https://mohammadbader99.github.io/reading-notes/class-11)
 Class-12 | [View](https://mohammadbader99.github.io/reading-notes/class-12)
 Class-13 | [View](https://mohammadbader99.github.io/reading-notes/class-13)
-Class-14a | Not ready yet
-Class-14b | Not ready yet
+Class-14a | [View](https://mohammadbader99.github.io/reading-notes/class-14a)
+Class-14b | [View](https://mohammadbader99.github.io/reading-notes/class-14b)
